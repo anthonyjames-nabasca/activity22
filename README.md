@@ -1,4 +1,4 @@
-Here is an updated `README.md` you can copy and paste:
+
 
 ````md
 <p align="center">
